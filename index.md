@@ -9,10 +9,10 @@ country: "FIXME"      # "W3" for centrally organized online trainings or lowerca
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latitude: "45"        # decimal latitude of training venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the training venue (use https://www.latlong.net)
-humandate: "14, 17, 23 and 27 November 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "14, 16, 28 and 30 November 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 - 13:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2023-11-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2023-11-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+enddate: 2023-11-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Toby Hodges, Mateusz Kuzak, Aleksandra Nenadic"] # boxed, comma-separated list of trainers' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["tobyhodges@carpentries.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]

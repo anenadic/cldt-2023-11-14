@@ -1,1 +1,1 @@
-A [website](https://softwaresaved.github.io/cldt-ssi-2023-11-14/) for an online Collaborative Lesson Development Training workshop delivered on 14, 16, 28 and 30 November 2023 and funded by the Software Sustainability Institute.
+A [website](https://softwaresaved.github.io/2023-11-14-cldt-part1-ssi-online/) for an online Collaborative Lesson Development Training workshop delivered on 14, 16, 28 and 30 November 2023 and funded by the Software Sustainability Institute.
